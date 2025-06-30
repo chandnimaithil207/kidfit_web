@@ -16,18 +16,6 @@ KidFit is a machine learning web application that predicts a child's clothing si
 
 ---
 
-# Project Structure
-
-kidfit_web/
-├── app.py # Flask app backend
-├── kidfit.py # Model training and evaluation script
-├── kids_clothing_svm_model.pkl # Trained model file
-├── templates/
-│ └── index.html # Web page form
-├── children_clothing_data.csv # Dataset (if included)
-├── requirements.txt # Required Python packages
-└── README.md
-
 
 **📈 Model Info**
 Algorithm: SVM (Support Vector Classifier)
